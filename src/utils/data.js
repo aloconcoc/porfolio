@@ -32,11 +32,11 @@ export const WhatDoIHelp = [
 export const workExp = [
   {
     place: "FPT Software",
-    tenure: "may 2023 - aug 2023",
+    tenure: "april 2023 - october 2023",
     role: "Backend Developer",
     detail:
       "Real-world job experience during the internship period, participating in the construction of an internal website for F-soft, writing APIs to query data, and database development.",
-  }
+  },
 ];
 
 export const comments = [
@@ -66,49 +66,49 @@ export const comments = [
     post: "Reactjs",
     comment:
       "Elevate your project management with our Kanban Clone, offering a streamlined interface for organizing tasks, tracking progress, and collaborating seamlessly. Harnessing the power of visual workflows, boost productivity and efficiency with ease.",
-    img: "./mern.png",
+    img: "./react.png",
   },
   {
     name: "Movies website",
     post: "Expressjs/Reactjs",
     comment:
-    "Explore our Movies Web platform, your gateway to a vast collection of films curated for every taste. Discover, watch, and review movies with ease, creating your personalized cinematic experience effortlessly.",
+      "Explore our Movies Web platform, your gateway to a vast collection of films curated for every taste. Discover, watch, and review movies with ease, creating your personalized cinematic experience effortlessly.",
     img: "./mern.png",
   },
   {
     name: "Chat realtime website",
     post: "Expressjs/Reactjs",
     comment:
-    "Engage in real-time conversations with our Chat Realtime platform, connecting users seamlessly for instant communication. Experience dynamic interactions with peers or clients, fostering collaboration and swift decision-making.",
+      "Engage in real-time conversations with our Chat Realtime platform, connecting users seamlessly for instant communication. Experience dynamic interactions with peers or clients, fostering collaboration and swift decision-making.",
     img: "./mern.png",
   },
   {
     name: "Task management",
     post: "Nextjs",
     comment:
-    "Simplify your task management with our intuitive platform, enabling easy organization, tracking, and collaboration. Stay on top of your tasks with streamlined workflows and efficient communication.",
-    img: "./mern.png",
+      "Simplify your task management with our intuitive platform, enabling easy organization, tracking, and collaboration. Stay on top of your tasks with streamlined workflows and efficient communication.",
+    img: "./next.png",
   },
   {
     name: "Food recipe app",
     post: "React native",
     comment:
-    "Discover culinary delights with our Food Recipe App, your go-to source for delicious recipes and culinary inspiration. From quick meals to gourmet delights, explore a world of flavors at your fingertips.",
+      "Discover culinary delights with our Food Recipe App, your go-to source for delicious recipes and culinary inspiration. From quick meals to gourmet delights, explore a world of flavors at your fingertips.",
     img: "./mern.png",
   },
   {
     name: "Notes app",
     post: "Native",
     comment:
-    "Unleash your productivity with our Notes App, simplifying the process of capturing, organizing, and accessing your thoughts on the go. Seamlessly sync across devices and never miss an idea again.",
-    img: "./mern.png",
+      "Unleash your productivity with our Notes App, simplifying the process of capturing, organizing, and accessing your thoughts on the go. Seamlessly sync across devices and never miss an idea again.",
+    img: "./andr.jpg",
   },
   {
     name: "Pan-porfolio",
     post: "Html/Css/Js",
     comment:
-    "Craft your personal brand with our Mini Portfolio, a sleek showcase of your skills and achievements. Present your work elegantly and professionally, leaving a lasting impression on potential clients or employers.",
-    img: "./mern.png",
+      "Craft your personal brand with our Mini Portfolio, a sleek showcase of your skills and achievements. Present your work elegantly and professionally, leaving a lasting impression on potential clients or employers.",
+    img: "./html.png",
   },
 ];
 

@@ -32,15 +32,15 @@ const Hero = () => {
           <motion.img variants={slideIn("up", "tween", 0.5, 1.3)} src="./avt.png" alt="" />
         </motion.div>
 
-        <a className={css.email} href="https://www.topcv.vn/xem-cv/V1VbAVRXVgVWBwECDlcDAlAABlhWAABWBlwAUg94fb">
+        <a className={css.email} href="https://www.topcv.vn/xem-cv/ClsDVQMAAgAHCQFXBVwLUw0NAwFdBwJSUgpRUQ7f08">
           Check my CV
         </a>
 
         <div className={css.lowerElements}>
           <motion.div variants={fadeIn("right", "tween", 0.3, 1)} className={css.experience}>
-            <div className="primaryText">4</div>
+            <div className="primaryText">FPT</div>
             <div className="secondaryText">
-              <div>Years</div>
+              <div>Graduate</div>
               <div>Student</div>
             </div>
           </motion.div>

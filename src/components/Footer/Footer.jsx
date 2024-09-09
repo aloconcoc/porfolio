@@ -27,14 +27,14 @@ const Footer = () => {
 
         <div className={css.right}>
           <div className={css.info}>
-            <span className="secondaryText">Information</span>
-            <p>Thach Hoa, Thach That, Ha Noi</p>
+            <span className="secondaryText" >Information</span>
+            <p style={{fontWeight: 'bold'}}>Ha Noi</p>
           </div>
           <ul className={css.menu}>
-          <li><a href="#experties">Services</a></li>
-          <li><a href="#work">Experience</a></li>
-          <li><a href="#portfolio">Project</a></li>
-          <li><a href="#people">Mini projects</a></li>
+          <li><a href="https://www.facebook.com">FaceBook</a></li>
+          <li><a href="https://www.github.com/">Github</a></li>
+          <li><a href="https://www.leetcode.com/">Leetcode</a></li>
+          <li><a href="https://www.zalo.com/">Zalo</a></li>
           </ul>
         </div>
       </motion.div>

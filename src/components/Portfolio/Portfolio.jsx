@@ -26,8 +26,8 @@ const Portfolio = () => {
 
         <div className={`flexCenter ${css.showCase}`}>
           <a href="https://github.com/phantu820/my-ecommerce-v2"><motion.img variants={fadeIn("up", "tween", .5, .6)} src="./p1.png" alt="project" className={`${css.images}`} /></a>
-          <a href="https://github.com/phantu820/"><motion.img variants={fadeIn("up", "tween", .7, .6)} src="./p2.png" alt="project" className={`${css.images}`} /></a>
-          <a href="https://github.com/phantu820/"><motion.img variants={fadeIn("up", "tween", .9, .6)} src="./p3.png" alt="project" className={`${css.images}`} /></a>
+          <a href="https://github.com/SEP490/SEP490-G63"><motion.img variants={fadeIn("up", "tween", .7, .6)} src="./p2.png" alt="project" className={`${css.images}`} /></a>
+          <a href="https://github.com/phantu820/pan-social"><motion.img variants={fadeIn("up", "tween", .9, .6)} src="./p3.png" alt="project" className={`${css.images}`} /></a>
         </div>
       </div>
     </motion.section>
